@@ -2,7 +2,7 @@ HO SO HOC VIEN GITLEARN
 =======================
 (Nhiem vu 1: dien thong tin cua em vao cac dong duoi, roi commit)
 
-Ho va ten:
-Lop:
-Mon hoc yeu thich:
-Mot dieu ve Git em vua hoc duoc:
+Ho va ten: Hong Dao Kiệt
+Lop: 12
+Mon hoc yeu thich: Coding
+Mot dieu ve Git em vua hoc duoc: Resolve conflictr

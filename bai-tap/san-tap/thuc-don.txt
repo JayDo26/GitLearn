@@ -3,3 +3,6 @@ THUC DON LIEN HOAN LOP
 (File nay dung cho Nhiem vu 3: luyen merge)
 
 - Nuoc loc
+- Gà rán
+- Salad
+-Udon
