@@ -1,0 +1,10 @@
+# Tai lieu danh rieng cho giao vien (ly thuyet day hoc + dap an).
+# Folder nay CHI ton tai o may giao vien, KHONG day len repo chung,
+# de hoc sinh khi clone ve khong nhin thay dap an.
+giao-vien/
+
+# File he dieu hanh / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,24 +1,20 @@
-# Thư mục bài tập thực hành Git
+# 📋 Các nhiệm vụ thực hành
 
-Gồm 5 bài tập theo cấp độ tăng dần. Mỗi bài nằm trong một thư mục riêng và có file `huong-dan.md` chỉ dẫn từng bước.
+Làm lần lượt từ Nhiệm vụ 1 đến 5. **Nhớ:** trước khi bắt đầu, em phải đang ở nhánh riêng của mình (`hoc-sinh/<tên>`), xem lại [README chính](../README.md) nếu quên cách tạo.
 
-| Bài | Chủ đề | Lệnh trọng tâm |
-|-----|--------|----------------|
-| [Bài 1](bai-1-co-ban/huong-dan.md) | Lệnh Git cơ bản | `init`, `add`, `commit`, `status`, `log` |
-| [Bài 2](bai-2-nhanh/huong-dan.md) | Làm việc với nhánh | `branch`, `switch` |
-| [Bài 3](bai-3-merge/huong-dan.md) | Gộp nhánh | `merge` (fast-forward & merge commit) |
-| [Bài 4](bai-4-xung-dot/huong-dan.md) | Xử lý xung đột | giải conflict thủ công |
-| [Bài 5](bai-5-remote/huong-dan.md) | Làm việc với GitHub | `clone`, `push`, `pull`, `remote` |
-| [Bài 6](bai-6-team-flow/huong-dan.md) | Quy trình làm việc nhóm | pull/push/merge, Pull Request |
+| Nhiệm vụ | Nội dung | Kỹ năng |
+|----------|----------|---------|
+| [Nhiệm vụ 1](nhiem-vu-1-commit.md) | Điền hồ sơ và commit | `add`, `commit`, `status`, `log` |
+| [Nhiệm vụ 2](nhiem-vu-2-nhanh.md) | Tạo và chuyển nhánh | `branch`, `switch` |
+| [Nhiệm vụ 3](nhiem-vu-3-merge.md) | Gộp nhánh có sẵn vào nhánh em | `merge` |
+| [Nhiệm vụ 4](nhiem-vu-4-conflict.md) | Tạo và giải quyết xung đột | giải `conflict` |
+| [Nhiệm vụ 5](nhiem-vu-5-nhom.md) | Bài tập nhóm cả lớp | `push`, Pull Request |
 
-## Cách làm bài
+## File dùng cho bài tập
 
-1. Đọc kỹ phần "Mục tiêu" của mỗi bài.
-2. Gõ lại từng lệnh (đừng copy-paste, gõ tay sẽ nhớ lâu hơn).
-3. Sau mỗi lệnh, chạy `git status` và `git log --oneline` để quan sát điều gì thay đổi.
-4. Cuối mỗi bài có phần "Câu hỏi ôn tập", hãy tự trả lời trước khi xem đáp án.
+- [san-tap/ho-so-cua-ban.txt](san-tap/ho-so-cua-ban.txt) - dùng cho Nhiệm vụ 1
+- [san-tap/thuc-don.txt](san-tap/thuc-don.txt) - dùng cho Nhiệm vụ 3
+- [san-tap/khao-sat.txt](san-tap/khao-sat.txt) - dùng cho Nhiệm vụ 4
+- [danh-sach-lop.txt](danh-sach-lop.txt) - dùng cho Nhiệm vụ 5 (cả lớp cùng điền)
 
-## Lưu ý cho giáo viên
-
-- Mỗi học sinh nên tạo một thư mục tập riêng để làm, ví dụ `tap-cua-an/`, `tap-cua-binh/`.
-- Đáp án các bài tập nằm trong [dap-an.md](dap-an.md).
+> Cuối mỗi nhiệm vụ có phần **Checklist** để em tự kiểm tra đã làm đúng chưa.
