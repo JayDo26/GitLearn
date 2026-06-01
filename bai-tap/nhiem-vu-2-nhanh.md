@@ -41,9 +41,9 @@
 
 ## ✅ Checklist
 
-- [ ] Đã tạo nhánh thử nghiệm
-- [ ] Hiểu vì sao nội dung file đổi khi chuyển nhánh
-- [ ] Xem được sơ đồ nhánh dạng cây
+- [x] Đã tạo nhánh thử nghiệm
+- [x] Hiểu vì sao nội dung file đổi khi chuyển nhánh
+- [x] Xem được sơ đồ nhánh dạng cây
 
 ## 💡 Ghi nhớ
 
