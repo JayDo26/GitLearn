@@ -6,3 +6,6 @@ roi tao Pull Request de dua vao main. Day la file ca lop cung dong gop!)
 1. dao kejt/12a7
 2. a + b > = 2. sqrt(ab)
 3. Tui thích thêm vậy đó
+3. alibaba
+4. ket
+5....
