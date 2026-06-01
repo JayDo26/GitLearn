@@ -4,3 +4,4 @@ DANH SACH HOC SINH THAM GIA GITLEARN
 roi tao Pull Request de dua vao main. Day la file ca lop cung dong gop!)
 
 1. dao kejt/12a7
+2. a + b > = 2. sqrt(ab)
