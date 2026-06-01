@@ -7,3 +7,4 @@ roi tao Pull Request de dua vao main. Day la file ca lop cung dong gop!)
 2. a + b > = 2. sqrt(ab)
 3. alibaba
 4. ket
+5....
