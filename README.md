@@ -20,10 +20,10 @@ cd GitLearn
 **Quy tắc số 1: KHÔNG bao giờ làm việc trực tiếp trên `main`.** Mỗi em tự tạo một nhánh mang tên mình:
 
 ```bash
-git switch -c hoc-sinh/ten-cua-em
+git checkout -b hoc-sinh/ten-cua-em
 ```
 
-Ví dụ: `git switch -c hoc-sinh/an`, `git switch -c hoc-sinh/binh`.
+Ví dụ: `git checkout -b hoc-sinh/an`, `git checkout -b hoc-sinh/binh`.
 
 ### Bước 3: Vào làm bài tập
 

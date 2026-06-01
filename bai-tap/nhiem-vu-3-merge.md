@@ -16,7 +16,7 @@ Repo này đã có sẵn nhánh **`luyen-tap/them-mon-an`** (do thầy/cô chu�
 2. Về nhánh của em và xem file thực đơn hiện tại (chỉ có "Nuoc loc"):
 
    ```bash
-   git switch hoc-sinh/ten-cua-em
+   git checkout hoc-sinh/ten-cua-em
    ```
 
    Mở `bai-tap/san-tap/thuc-don.txt`.

@@ -15,7 +15,7 @@ Khi gộp cả hai, Git không biết nghe ai, sẽ báo conflict.
 
    ```bash
    git fetch origin
-   git switch hoc-sinh/ten-cua-em
+   git checkout hoc-sinh/ten-cua-em
    ```
 
 2. Gộp nhánh tổ 1 (lần này êm xuôi):

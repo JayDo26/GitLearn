@@ -7,7 +7,7 @@
 1. Đảm bảo em đang ở nhánh riêng của mình:
 
    ```bash
-   git switch -c hoc-sinh/ten-cua-em
+   git checkout -b hoc-sinh/ten-cua-em
    ```
 
 2. Mở file [san-tap/ho-so-cua-ban.txt](san-tap/ho-so-cua-ban.txt) và điền thông tin của em (họ tên, lớp, môn yêu thích...).

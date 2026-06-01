@@ -9,9 +9,9 @@ Cả lớp sẽ cùng điền tên vào file chung [danh-sach-lop.txt](danh-sach
 1. Cập nhật `main` mới nhất rồi tạo nhánh từ đó:
 
    ```bash
-   git switch main
+   git checkout main
    git pull origin main
-   git switch -c hoc-sinh/ten-cua-em-ds
+   git checkout -b hoc-sinh/ten-cua-em-ds
    ```
 
 2. Mở file [danh-sach-lop.txt](danh-sach-lop.txt) và thêm tên em vào một dòng mới ở cuối (đánh số tiếp theo).
@@ -36,7 +36,7 @@ Cả lớp sẽ cùng điền tên vào file chung [danh-sach-lop.txt](danh-sach
 7. Sau khi PR của em được merge, cập nhật lại:
 
    ```bash
-   git switch main
+   git checkout main
    git pull origin main
    ```
 
